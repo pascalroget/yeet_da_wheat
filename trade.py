@@ -109,6 +109,5 @@ if __name__ == "__main__":
         second=0
     )
     market_close = market_close.astimezone(nyc)
-    print(f'Today is {today_str}\nMarket next opens {calendar.date}')
 
 
